@@ -1,0 +1,9 @@
+     1	Descargas
+     2	Documentos
+     3	Escritorio
+     4	Imágenes
+     5	iso2024
+     6	Música
+     7	Plantillas
+     8	Público
+     9	Vídeos
